@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning.dir\\planning_main.cpp.obj -c E:\\Kraken_rebuild\\CMake_Git_learn\\cmake_planning_test0627\\planning_main.cpp",
+  "file": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/planning_main.cpp",
+  "output": "CMakeFiles/planning.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning.dir\\pnc_map.cpp.obj -c E:\\Kraken_rebuild\\CMake_Git_learn\\cmake_planning_test0627\\pnc_map.cpp",
+  "file": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/pnc_map.cpp",
+  "output": "CMakeFiles/planning.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++17 -o CMakeFiles\\planning.dir\\process.cpp.obj -c E:\\Kraken_rebuild\\CMake_Git_learn\\cmake_planning_test0627\\process.cpp",
+  "file": "E:/Kraken_rebuild/CMake_Git_learn/cmake_planning_test0627/process.cpp",
+  "output": "CMakeFiles/planning.dir/process.cpp.obj"
+}
+]
